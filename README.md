@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HarshSingh2208
-- 👀 I’m interested in ...working in IT field
-- 🌱 I’m currently learning ... HTML,CSS,REACT,JAVA_SCRIPT
-- 💞️ I’m looking to collaborate on ...web development projects
+- 👀 I’m working in Big Data Field as Data Engineer @Bank Of America
+- 🌱 I’m currently working on Big Data Tech Stack Hadoop,Hive,Impala,MR,Spark,Ozzie,Kafka,Bash,SQL
+- 💞️ I’m looking to collaborate on ...Big Data Projects
 - 📫 How to reach me ...iharshpratapsingh@gmail.com
 
 <!---
